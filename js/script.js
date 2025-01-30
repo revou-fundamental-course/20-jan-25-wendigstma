@@ -1,5 +1,3 @@
-/* Ini File Javascript */
-
 // Ini File Javascript
 
 // Objek untuk menyimpan kategori BMI dan pesan
